@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.brunoguic.tsp.MathUtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-16T09:42:20" hostname="RioLoaner-Mac-02.local" time="0.018">
+  <properties/>
+  <testcase name="dist2d()" classname="com.brunoguic.tsp.MathUtilsTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
